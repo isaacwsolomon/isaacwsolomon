@@ -17,6 +17,14 @@ The game is written using ```JavaScritpt```, ```Node.js```, ```Express.js```, ``
 ### [Relax-App](https://github.com/isaacwsolomon/Relax-App)
 A mobile app I created with two of my friends. The idea of the app is to relieve stress when it is used. It has features such as relaxing background sounds(rain, fire, wind), relaxing music, satisfying bubble popping game, breathing exercises, mood tracker, study guide timer. Its built in ```React Native``` and uses ```Firebase``` for authentication and data storage
 
+### [Similar Word Swapper](https://github.com/isaacwsolomon/SimilarWordSwapper)
+This is a Virtual Threaded Text Simplifier - a Java application that replaces complex words in text with simpler alternatives using word embeddings and similarity calculations. It takes input text and simplifies it by replacing difficult words with easier ones from Google's 1000 most common words. It calculates cosine similarity between word vectors to determine the best matches
+
+### [Client-Server Incident Managment System](https://github.com/isaacwsolomon/MultiThreadedApp)
+This is a Java-based Client-Server Incident Management System that allows employees to register accounts, log in, and manage workplace safety reports through a socket-based connection (port 2004). The multi-threaded server handles multiple clients simultaneously, enabling users to create accident/health & safety reports, view and assign reports to employees, update report statuses, and change passwords. Data is persisted in text files (AccountDetails.txt and ReportDetails.txt) and loaded at server startup, making it a complete workplace incident tracking solution with user authentication and report lifecycle management.
+
+### [Diary App](https://github.com/isaacwsolomon/DiaryApp)
+This is a React-based Digital Diary Application with a Node.js/Express backend and MongoDB database that allows users to create, edit, delete, and manage personal diary entries. Users can write entries with titles, content, and mood selections (happy, sad, neutral, etc.), search and filter entries by content or mood, and view inspirational quotes fetched from an external API. The app uses React Bootstrap for the UI, Axios for API communication, and Mongoose for MongoDB integration, providing a complete CRUD diary management system with timestamps and mood tracking.
 ## 🤝 Let’s connect!
 
 💼 [LinkedIn](https://www.linkedin.com/in/isaac-solomon-11486a9a/)
