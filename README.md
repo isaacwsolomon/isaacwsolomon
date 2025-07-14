@@ -12,10 +12,10 @@ I'm a software development student currently studying at ATU Galway. Here you wi
 ## 🛠 Projects
 ### [Fruit Salad](https://github.com/isaacwsolomon/FruitSalad2025)
 The game starts once every player has written at least 5 words / sentences and entered them into the game. Players are then divided into teams. There are 4 rounds, the first round players must explain the randomly chosen entry without saying any of the words, their team must guess what is written on the entry. Once all entries have been gotten the next round is the act it out round. The following round players can only say one word, and finally the last round players may only make noises (no words or actions).  
-The game is written using ```JavaScritpt```, ```Node.js```, ```Express.js```, ```MongoDB```, ```Socket.IO```
+The game is written using JavaScript, Node.js, Express.js, MongoDB, Socket.IO
 
 ### [Relax-App](https://github.com/isaacwsolomon/Relax-App)
-A mobile app I created with two of my friends. The idea of the app is to relieve stress when it is used. It has features such as relaxing background sounds(rain, fire, wind), relaxing music, satisfying bubble popping game, breathing exercises, mood tracker, study guide timer. Its built in ```React Native``` and uses ```Firebase``` for authentication and data storage
+A mobile app I created with two of my friends. The idea of the app is to relieve stress when it is used. It has features such as relaxing background sounds(rain, fire, wind), relaxing music, satisfying bubble popping game, breathing exercises, mood tracker, study guide timer. Its built in React Native and uses Firebase for authentication and data storage
 
 ### [Similar Word Swapper](https://github.com/isaacwsolomon/SimilarWordSwapper)
 This is a Virtual Threaded Text Simplifier - a Java application that replaces complex words in text with simpler alternatives using word embeddings and similarity calculations. It takes input text and simplifies it by replacing difficult words with easier ones from Google's 1000 most common words. It calculates cosine similarity between word vectors to determine the best matches
